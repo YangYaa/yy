@@ -1,5 +1,10 @@
 this is yy owner file
 this is mc owner file
+<<<<<<< HEAD
 this is mc twice edit file    this is yy edit overlap
 this is yy third edit file
 
+=======
+this is mc twice edit file    this is mc edit overlap
+this is zi help to edit
+>>>>>>> 926b68360fb0b3609692d559802c85e16079fbb2
